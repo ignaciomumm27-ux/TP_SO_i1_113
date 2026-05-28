@@ -1,0 +1,4 @@
+ALFA : IGNACIO MUMM 
+BETA : IGNACIO dellacanonica
+a) si
+b) si, una vez que alfa hace el push se ven los archivos en el repo
